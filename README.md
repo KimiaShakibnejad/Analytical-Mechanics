@@ -6,4 +6,4 @@ For the summer internship with 3blue1brown
 
 ![](AnalyticalMechanics2ndProject_10.gif)
 
-![](green.gif)
+![](green1.gif)
