@@ -3,3 +3,5 @@ For the summer internship with 3blue1brown
 
 
 ![](duffing.gif)
+
+![](green.gif)
