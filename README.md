@@ -11,3 +11,5 @@ For the summer internship with 3blue1brown
 ![](green1.gif)
 
 ![](green3.gif)
+
+![](transparency.png)
