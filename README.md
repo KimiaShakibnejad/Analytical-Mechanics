@@ -12,4 +12,6 @@ For the summer internship with 3blue1brown
 
 ![](green3.gif)
 
+![](thirdplot.png)  ![](forthplot.png)
+
 ![](transparency.png)
